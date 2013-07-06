@@ -1,0 +1,74 @@
+/* hroncok.cz */
+
+body {
+	background: #000;
+	color: #7c7c7c;
+	font-family: "Trebuchet MS", "Ubuntu", "sans-serif";
+}
+
+#kontajner {
+	margin: 0em auto;
+}
+
+a {
+	color: #2e2e2e;
+	text-decoration: none;
+}
+
+a:hover { color: #bcbcbc; }
+
+#left a, #right a {
+	font-size: 450%;
+	line-height: 1.5em;
+}
+
+li {
+	list-style: none;
+	margin: 0em 0em 0em -2.8em;
+}
+
+#left li a { padding-right: 1.73em; }
+#right li a { padding-left: 1.73em; }
+
+li a {
+	padding-top: 0.2em;
+	padding-bottom: 0.2em;
+	-o-background-size: 1.6em 1.6em;
+	-webkit-background-size: 1.6em 1.6em;
+}
+
+#left {
+	text-align: right;
+	float: left;
+	width: 50%;
+}
+
+#right {
+	text-align: left;
+	float: right;
+	width: 50%;
+}
+
+/*#headline { display: none; }*/
+h1 {
+	font-size: 450%;
+	text-align: center;
+
+}
+
+/* obrazky */
+/* levy sloupec */
+#portfolio { background: url("portfolio.png") center right no-repeat; }
+#me-blog { background: url("blogger.png") center right no-repeat; }
+#doporucuji { background: url("doporucuji.png") center right no-repeat; }
+#github { background: url("octocat.png") center right no-repeat; }
+/* pravy sloupec */
+#le-blog { background: url("tux.png") center left no-repeat; }
+#twitter { background: url("twitter.png") center left no-repeat; }
+#linkedin { background: url("linkedin.png") center left no-repeat; }
+#kontakt { background: url("kontakt.png") center left no-repeat; }
+
+#footer {
+	text-align: center;
+	clear: both;
+}
