@@ -58,14 +58,14 @@ h1 {
 
 /* obrazky */
 /* levy sloupec */
-#portfolio { background: url("portfolio.png") center right no-repeat; }
 #me-blog { background: url("blogger.png") center right no-repeat; }
 #doporucuji { background: url("doporucuji.png") center right no-repeat; }
 #github { background: url("octocat.png") center right no-repeat; }
+#linkedin { background: url("linkedin.png") center right no-repeat; }
 /* pravy sloupec */
 #le-blog { background: url("tux.png") center left no-repeat; }
+#eng-blog { background: url("portfolio.png") center left no-repeat; }
 #twitter { background: url("twitter.png") center left no-repeat; }
-#linkedin { background: url("linkedin.png") center left no-repeat; }
 #kontakt { background: url("kontakt.png") center left no-repeat; }
 
 #footer {
