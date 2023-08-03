@@ -58,16 +58,16 @@ h1 {
 
 /* obrazky */
 /* levy sloupec */
-#me-blog { background: url("blogger.png") center right no-repeat; }
-#doporucuji { background: url("doporucuji.png") center right no-repeat; }
-#github { background: url("octocat.png") center right no-repeat; }
-#linkedin { background: url("linkedin.png") center right no-repeat; }
+#me-blog { background: url("blogger.svg") center right no-repeat; background-size: 100px 100px; }
+#doporucuji { background: url("doporucuji.svg") center right no-repeat; background-size: 100px 100px; }
+#github { background: url("octocat.svg") center right no-repeat; background-size: 100px 100px; }
+#linkedin { background: url("linkedin.svg") center right no-repeat; background-size: 100px 100px; }
 /* pravy sloupec */
-#le-blog { background: url("tux.png") center left no-repeat; }
-#eng-blog { background: url("portfolio.png") center left no-repeat; }
-#twitter { background: url("twitter.png") center left no-repeat; }
-#mastodon { background: url("mastodon.png") center left no-repeat; }
-#kontakt { background: url("kontakt.png") center left no-repeat; }
+#le-blog { background: url("tux.svg") center left no-repeat; background-size: 100px 100px; }
+#eng-blog { background: url("portfolio.svg") center left no-repeat; background-size: 100px 100px; }
+#twitter { background: url("twitter.svg") center left no-repeat; background-size: 100px 100px; }
+#mastodon { background: url("mastodon.svg") center left no-repeat; background-size: 100px 100px; }
+#kontakt { background: url("kontakt.svg") center left no-repeat; background-size: 100px 100px; }
 
 #footer {
 	text-align: center;
